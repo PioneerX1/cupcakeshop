@@ -1,0 +1,10 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: yellow;
+  background-color: skyblue;
+  font-weight: bold;
+}
